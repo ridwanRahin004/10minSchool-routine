@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651389025 source:c:\users\rahin\desktop\c++\10 min sch routin\main.cpp
+	<iostream>
+	<string.h>
+	<cmath>
+
